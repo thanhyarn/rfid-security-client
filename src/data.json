@@ -1,0 +1,122 @@
+[
+  {
+    "epc": "E28278840000000000913ACE",
+    "barcode": "sapthom",
+    "name": "Glade - Hương chanh",
+    "category": "Sáp thơm",
+    "price": 51000,
+    "image": "./image/anh7.jpg"
+  },
+  {
+    "epc": "E282788400000000009119FD",
+    "barcode": "kim",
+    "name": "Dầu gió Kim - 10 Chai",
+    "category": "Dược phẩm",
+    "price": 199000,
+    "image": "./image/anh2.jpg"
+  },
+  {
+    "epc": "E28278840000000000911B5F",
+    "barcode": "nuochoa",
+    "name": "Nước hoa xịt phòng Sumo",
+    "category": "Chăm sóc cá nhân",
+    "price": 50000,
+    "image": "./image/anh3.jpg"
+  },
+  {
+    "epc": "E28278840000000000911B57",
+    "barcode": "kim",
+    "name": "Dầu gió Kim - 10 Chai",
+    "category": "Dược phẩm",
+    "price": 199000,
+    "image": "./image/anh2.jpg"
+  },
+  {
+    "epc": "E28278840000000000913A66",
+    "barcode": "opetacid",
+    "name": "Opetacid",
+    "category": "Dược phẩm",
+    "price": 30000,
+    "image": "./image/anh6.jpg"
+  },
+  {
+    "epc": "E28278840000000000911A0D",
+    "barcode": "opetacid",
+    "name": "Opetacid",
+    "category": "Dược phẩm",
+    "price": 30000,
+    "image": "./image/anh6.jpg"
+  },
+  {
+    "epc": "E28278840000000000911A05",
+    "barcode": "opetacid",
+    "name": "Opetacid",
+    "category": "Dược phẩm",
+    "price": 30000,
+    "image": "./image/anh6.jpg"
+  },
+  {
+    "epc": "E282788400000000009138FA",
+    "barcode": "opetacid",
+    "name": "Opetacid",
+    "category": "Dược phẩm",
+    "price": 30000,
+    "image": "./image/anh6.jpg"
+  },
+  {
+    "epc": "E28278840000000000913A58",
+    "barcode": "usb",
+    "name": "USB to RS-232 DB9",
+    "category": "Thiết bị điện tử",
+    "price": 150000,
+    "image": "./image/anh10.jpg"
+  },
+  {
+    "epc": "E2827884000000000091386D",
+    "barcode": "scanneuron",
+    "name": "Scanneuron",
+    "category": "Dược phẩm",
+    "price": 90000,
+    "image": "./image/anh8.jpg"
+  },
+  {
+    "epc": "E28278840000000000911A87",
+    "barcode": "usb20",
+    "name": "USB 2.0",
+    "category": "Thiết bị điện tử",
+    "price": 175000,
+    "image": "./image/anh4.jpg"
+  },
+  {
+    "epc": "E282788400000000009138EA",
+    "barcode": "daugio",
+    "name": "Dầu gió Nhị Thiên Đường",
+    "category": "Dược phẩm",
+    "price": 50000,
+    "image": "./image/anh5.png"
+  },
+  {
+    "epc": "E282788400000000009138F2",
+    "barcode": "masoi",
+    "name": "Bộ bài Ma sói",
+    "category": "Giải trí",
+    "price": 70000,
+    "image": "./image/anh9.jpg"
+  },
+  {
+    "epc": "E28278840000000000913879",
+    "barcode": "daugoi",
+    "name": "Dầu gội dược liệu",
+    "category": "Chăm sóc cá nhân",
+    "price": 30000,
+    "image": "./image/anh1.jpg"
+  },
+  {
+    "epc": "E28278840000000000911B67",
+    "barcode": "daugoi",
+    "name": "Dầu gội dược liệu",
+    "category": "Chăm sóc cá nhân",
+    "price": 30000,
+    "image": "./image/anh1.jpg"
+  }
+]

@@ -1,0 +1,55 @@
+/* App.css */
+.App-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.product-list {
+  flex: 7; /* Chiếm 70% không gian */
+  padding-right: 20px;
+  border-right: 1px solid #ccc;
+}
+
+.payment-section {
+  flex: 3; /* Chiếm 30% không gian */
+  padding-left: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #555;
+  color: white;
+}
+
+button.refresh-btn {
+  background-color: #ff6f61;
+  color: white;
+}
+
+button.payment-btn {
+  background-color: #4caf50;
+  color: white;
+}
+
+table {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+img {
+  width: 100px;
+}
